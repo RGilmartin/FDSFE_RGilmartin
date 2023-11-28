@@ -24,3 +24,4 @@ new:
 ![image](https://github.com/RGilmartin/FDSFE_RGilmartin/assets/18237027/be863cf9-8219-46f6-889c-683488387505)
 
 
+TARA : Great work on this homework. You just needed to add more infomration why you made the changes to your plot for the second part of the assignment. 
